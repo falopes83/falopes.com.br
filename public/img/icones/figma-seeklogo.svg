@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2500 2500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7262;
+      }
+
+      .cls-2 {
+        fill: #a259ff;
+      }
+
+      .cls-3 {
+        fill: #1abcfe;
+      }
+
+      .cls-4 {
+        fill: #f24e1e;
+      }
+
+      .cls-5 {
+        fill: #0acf83;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <path id="path0_fill" class="cls-5" d="M833.3,2500c230,0,416.7-186.7,416.7-416.7v-416.7h-416.7c-230,0-416.7,186.7-416.7,416.7s186.7,416.7,416.7,416.7Z"/>
+      <path id="path1_fill" class="cls-2" d="M416.7,1250c0-230,186.7-416.7,416.7-416.7h416.7v833.3h-416.7c-230,0-416.7-186.7-416.7-416.7Z"/>
+      <path id="path1_fill-2" data-name="path1_fill" class="cls-4" d="M416.7,416.7C416.7,186.7,603.3,0,833.3,0h416.7v833.3h-416.7c-230,0-416.7-186.7-416.7-416.7Z"/>
+      <path id="path2_fill" class="cls-1" d="M1250,0h416.7c230,0,416.7,186.7,416.7,416.7s-186.7,416.7-416.7,416.7h-416.7V0Z"/>
+      <path id="path3_fill" class="cls-3" d="M2083.3,1250c0,230-186.7,416.7-416.7,416.7s-416.7-186.7-416.7-416.7,186.7-416.7,416.7-416.7,416.7,186.7,416.7,416.7Z"/>
+    </g>
+  </g>
+</svg>
